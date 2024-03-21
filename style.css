@@ -1,4 +1,23 @@
-body{
+body {
     background-color: yellowgreen;
-    color:rgb(226, 15, 15);
+    color: black;
+}
+
+.buttons {
+    height: 40px;
+    width: 40px;
+    padding: 20px;
+}
+
+.button {
+    height: 20px;
+    width: 90px;
+    color: cadetblue;
+}
+
+td{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
 }
